@@ -1,6 +1,6 @@
 # 🧠 Fingerprint Enhancer Web App (Python + Streamlit)
 
-An interactive **Neural Network–based data science project** built using **Python** and **Streamlit**. This project demonstrates how machine learning / neural network logic can be deployed as a simple and user-friendly web application.
+An interactive *Fingerprint Enhancer–based data science project** built using **Python** and **Streamlit**. This project demonstrates how machine learning / neural network logic can be deployed as a simple and user-friendly web application.
 
 The app allows users to interact with the model, understand predictions, and visualize outputs in real time.
 
@@ -8,7 +8,7 @@ The app allows users to interact with the model, understand predictions, and vis
 
 ## 🚀 Features
 
-* Neural Network implementation in Python
+* Fingerprint Enhancer implementation in Python
 * Interactive web interface using Streamlit
 * Real-time input and output visualization
 * Clean and modular code structure
@@ -32,7 +32,7 @@ The app allows users to interact with the model, understand predictions, and vis
 * **Python**
 * **Streamlit**
 * **NumPy / Math libraries** (as used in NN)
-* **Machine Learning / Neural Networks**
+* **PIL / openCV**
 
 ---
 
